@@ -1,0 +1,11 @@
+release/main.o
+release/server.o
+release/clienthandler.o
+release/database.o
+release/requestparser.o
+release/utils.o
+release/crypto.o
+release/ml_gradient.o
+release/spline.o
+release/moc_server.o
+release/moc_clienthandler.o

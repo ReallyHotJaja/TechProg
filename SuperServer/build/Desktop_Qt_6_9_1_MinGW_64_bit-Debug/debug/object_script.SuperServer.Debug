@@ -1,0 +1,11 @@
+debug/main.o
+debug/server.o
+debug/clienthandler.o
+debug/database.o
+debug/requestparser.o
+debug/utils.o
+debug/crypto.o
+debug/ml_gradient.o
+debug/spline.o
+debug/moc_server.o
+debug/moc_clienthandler.o
